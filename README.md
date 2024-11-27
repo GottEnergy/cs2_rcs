@@ -4,20 +4,16 @@ Feel free to expand or improve the program as you like.
 With the addition of DMA (Direct Memory Access), you can avoid the expensive purchase of the KM box.
 
 Have fun :)
-- energy
+energy
 
-What you’ll need:
+What do i need?
+
+A Arduino Leonardo (Not a Uno or the cheao ali express fakes) 
+A USB Host Shield
+Connect everything to the breadboard and install the butten etc. correctly.
+If you dont wanna use the LCD Display etc. you can simply delete the code.
+
+You might inform yourself how to spoof your Arduino to get detected as a serial mouse device.
+Im just simply help all those skids to set up their RCS device.
 
 
--Arduino Leonardo
--USB Host Shield
--Knowledge of how to set everything up on a breadboard
--Familiarity with spoofing the Arduino so that it acts as your mouse and is not listed as an Arduino Mouse Device
-
-
-Provided features:
-
-
--Implementation of an LCD display (shows your smooth value and the currently selected pattern)
--USB Host Shield implementation
--Button for changing patterns
