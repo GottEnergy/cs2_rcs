@@ -8,7 +8,7 @@ energy
 
 What do i need?
 
-A Arduino Leonardo (Not a Uno or the cheao ali express fakes) 
+A Arduino Leonardo (Not a Uno or the cheap ali express fakes) 
 A USB Host Shield
 Connect everything to the breadboard and install the butten etc. correctly.
 If you dont wanna use the LCD Display etc. you can simply delete the code.
